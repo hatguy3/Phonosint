@@ -1,30 +1,28 @@
-Phonosint
-----
-Phonosint is a tool designed to extract detailed information from mobile phone numbers.
+This is a simple tool to extract detailed information from mobile phone numbers globally.
 
 Results
-----
-- Info
+---
+- Valid number
 - International format
 - National format
-- Valid number
 - Can be dialed internationally
+- Line Type (e.g., mobile, fixed-line, VoIP)
+- Number type
 - Location
 - Area code
-- Number type
-- Certain operators
-- ISP
-- Time zone
 - Geographical number
+- Time zone
+- Specific carriers
+- ISP
 
 Requirements
-----
+---
 * Python
 
 `pip install phonenumbers`
 
 Commands
-----
+---
 `apt install git`
 
 `git clone https://github.com/hatguy3/Phonosint`
