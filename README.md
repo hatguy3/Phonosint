@@ -1,4 +1,4 @@
-Phoneosint is a simple tool to extract detailed information from mobile phone numbers globally.
+Phonosint is a simple tool to extract detailed information from mobile phone numbers globally.
 
 Results
 ---
