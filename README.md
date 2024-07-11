@@ -1,7 +1,6 @@
 Phonosint is a simple tool to extract detailed information from mobile phone numbers globally.
 
-Results
----
+## Results
 - Valid number
 - International format
 - National format
@@ -15,14 +14,12 @@ Results
 - Specific carriers
 - ISP
 
-Requirements
----
+## Requirements
 * Python
 
 `pip install phonenumbers`
 
-Commands
----
+## Commands
 `apt install git`
 
 `git clone https://github.com/hatguy3/Phonosint`
